@@ -32,7 +32,9 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "24px"
+              "font-size": "24px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
@@ -77,7 +79,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POETRY AND JOKE</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IAMROZE</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"https://mobirise.com/\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
@@ -147,7 +149,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/teamos-walls-pack-29-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/images-5-600x331.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -167,10 +169,14 @@
           "button1": "<a data-app-btn=\"true\" href=\"poetry.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/feature-responsive.png",
+              "src": "@PROJECT_PATH@/assets/images/images-600x336.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -183,7 +189,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"joke.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/teamos-walls-pack-32-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/download-2-600x352.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -285,7 +291,9 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "24px"
+              "font-size": "24px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
@@ -330,7 +338,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POETRY AND JOKE</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IAMROZE</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"https://mobirise.com/\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
@@ -397,10 +405,14 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/feature-bootstrap.png",
+              "src": "@PROJECT_PATH@/assets/images/download-3-600x372.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -413,10 +425,14 @@
           "button1": "<a data-app-btn=\"true\" href=\"Mock.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/feature-responsive.png",
+              "src": "@PROJECT_PATH@/assets/images/download-5-600x630.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -429,10 +445,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"Marathon.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/feature-google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/images-1-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -445,10 +465,14 @@
           "button3": "<a data-app-btn=\"true\" href=\"Equality.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/feature-websites.png",
+              "src": "@PROJECT_PATH@/assets/images/images-3-600x399.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -471,7 +495,9 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "24px"
+              "font-size": "24px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
@@ -516,7 +542,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POETRY AND JOKE</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IAMROZE</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"https://mobirise.com/\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
@@ -606,10 +632,14 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/feature-bootstrap.png",
+              "src": "@PROJECT_PATH@/assets/images/download-6-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -622,10 +652,14 @@
           "button1": "<a data-app-btn=\"true\" href=\"help.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/feature-responsive.png",
+              "src": "@PROJECT_PATH@/assets/images/images-4-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
