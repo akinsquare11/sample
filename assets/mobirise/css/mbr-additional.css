@@ -1,0 +1,365 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+#dropdown-menu-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-0 .navbar-brand a {
+  font-size: 24px;
+}
+#dropdown-menu-0 .nav .link,
+#dropdown-menu-0 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-0 .navbar,
+#dropdown-menu-0 .dropdown-menu {
+  background: #f1c050;
+}
+#dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-0 .dropdown-menu a:hover,
+#dropdown-menu-0 .dropdown-menu a:focus {
+  background: #efb93d;
+}
+#dropdown-menu-0 .navbar-toggler {
+  color: #000000;
+}
+#header1-1 H1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
+#social-buttons1-3 .mbr-section-title {
+  font-size: 20px;
+}
+#footer1-4 P {
+  text-align: center;
+}
+#dropdown-menu-5 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-5 .navbar-brand a {
+  font-size: 24px;
+}
+#dropdown-menu-5 .nav .link,
+#dropdown-menu-5 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-5 .navbar,
+#dropdown-menu-5 .dropdown-menu {
+  background: #f1c050;
+}
+#dropdown-menu-5 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-5 .dropdown-menu a:hover,
+#dropdown-menu-5 .dropdown-menu a:focus {
+  background: #efb93d;
+}
+#dropdown-menu-5 .navbar-toggler {
+  color: #000000;
+}
+#footer1-6 P {
+  text-align: center;
+}
+#features1-b H4 {
+  color: #0275d8;
+}
+#features1-b P {
+  text-align: center;
+}
+#dropdown-menu-e .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-e .navbar-brand a {
+  font-size: 24px;
+}
+#dropdown-menu-e .nav .link,
+#dropdown-menu-e .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-e .navbar,
+#dropdown-menu-e .dropdown-menu {
+  background: #f1c050;
+}
+#dropdown-menu-e .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-e .dropdown-menu a:hover,
+#dropdown-menu-e .dropdown-menu a:focus {
+  background: #efb93d;
+}
+#dropdown-menu-e .navbar-toggler {
+  color: #000000;
+}
+#footer1-f P {
+  text-align: center;
+}
+#dropdown-menu-i .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-i .navbar-brand a {
+  font-size: 24px;
+}
+#dropdown-menu-i .nav .link,
+#dropdown-menu-i .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-i .navbar,
+#dropdown-menu-i .dropdown-menu {
+  background: #f1c050;
+}
+#dropdown-menu-i .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-i .dropdown-menu a:hover,
+#dropdown-menu-i .dropdown-menu a:focus {
+  background: #efb93d;
+}
+#dropdown-menu-i .navbar-toggler {
+  color: #000000;
+}
+#footer1-j P {
+  text-align: center;
+}
+#dropdown-menu-m .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-m .navbar-brand a {
+  font-size: 24px;
+}
+#dropdown-menu-m .nav .link,
+#dropdown-menu-m .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-m .navbar,
+#dropdown-menu-m .dropdown-menu {
+  background: #f1c050;
+}
+#dropdown-menu-m .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-m .dropdown-menu a:hover,
+#dropdown-menu-m .dropdown-menu a:focus {
+  background: #efb93d;
+}
+#dropdown-menu-m .navbar-toggler {
+  color: #000000;
+}
+#testimonials1-q .mbr-section-title {
+  color: #0275d8;
+}
+#testimonials1-q .card-block DIV {
+  text-align: center;
+}
+#testimonials1-q .card-block EM {
+  text-align: left;
+}
+#testimonials1-q .card-block P {
+  text-align: center;
+}
+#testimonials1-q .card-block {
+  text-align: center;
+}
+#footer1-n P {
+  text-align: center;
+}
+#dropdown-menu-r .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-r .navbar-brand a {
+  font-size: 24px;
+}
+#dropdown-menu-r .nav .link,
+#dropdown-menu-r .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-r .navbar,
+#dropdown-menu-r .dropdown-menu {
+  background: #f1c050;
+}
+#dropdown-menu-r .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-r .dropdown-menu a:hover,
+#dropdown-menu-r .dropdown-menu a:focus {
+  background: #efb93d;
+}
+#dropdown-menu-r .navbar-toggler {
+  color: #000000;
+}
+#testimonials1-t .mbr-section-title {
+  color: #0275d8;
+}
+#testimonials1-t .card-block DIV {
+  text-align: center;
+}
+#testimonials1-t .card-block EM {
+  text-align: left;
+}
+#testimonials1-t .card-block P {
+  text-align: center;
+}
+#testimonials1-t .card-block {
+  text-align: center;
+}
+#footer1-u P {
+  text-align: center;
+}
+#dropdown-menu-v .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-v .navbar-brand a {
+  font-size: 24px;
+}
+#dropdown-menu-v .nav .link,
+#dropdown-menu-v .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-v .navbar,
+#dropdown-menu-v .dropdown-menu {
+  background: #f1c050;
+}
+#dropdown-menu-v .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-v .dropdown-menu a:hover,
+#dropdown-menu-v .dropdown-menu a:focus {
+  background: #efb93d;
+}
+#dropdown-menu-v .navbar-toggler {
+  color: #000000;
+}
+#testimonials1-x .mbr-section-title {
+  color: #0275d8;
+}
+#testimonials1-x .card-block DIV {
+  text-align: center;
+}
+#testimonials1-x .card-block EM {
+  text-align: left;
+}
+#testimonials1-x .card-block P {
+  text-align: center;
+}
+#testimonials1-x .card-block {
+  text-align: center;
+}
+#footer1-y P {
+  text-align: center;
+}
+#dropdown-menu-z .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-z .navbar-brand a {
+  font-size: 24px;
+}
+#dropdown-menu-z .nav .link,
+#dropdown-menu-z .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-z .navbar,
+#dropdown-menu-z .dropdown-menu {
+  background: #f1c050;
+}
+#dropdown-menu-z .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-z .dropdown-menu a:hover,
+#dropdown-menu-z .dropdown-menu a:focus {
+  background: #efb93d;
+}
+#dropdown-menu-z .navbar-toggler {
+  color: #000000;
+}
+#testimonials1-11 .mbr-section-title {
+  color: #0275d8;
+}
+#testimonials1-11 .card-block DIV {
+  text-align: center;
+}
+#testimonials1-11 .card-block EM {
+  text-align: left;
+}
+#testimonials1-11 .card-block P {
+  text-align: center;
+}
+#testimonials1-11 .card-block {
+  text-align: center;
+}
+#footer1-12 P {
+  text-align: center;
+}
+#dropdown-menu-13 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-13 .navbar-brand a {
+  font-size: 24px;
+}
+#dropdown-menu-13 .nav .link,
+#dropdown-menu-13 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-13 .navbar,
+#dropdown-menu-13 .dropdown-menu {
+  background: #f1c050;
+}
+#dropdown-menu-13 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-13 .dropdown-menu a:hover,
+#dropdown-menu-13 .dropdown-menu a:focus {
+  background: #efb93d;
+}
+#dropdown-menu-13 .navbar-toggler {
+  color: #000000;
+}
+#testimonials1-15 .mbr-section-title {
+  color: #0275d8;
+}
+#testimonials1-15 .card-block DIV {
+  text-align: center;
+}
+#testimonials1-15 .card-block EM {
+  text-align: left;
+}
+#testimonials1-15 .card-block P {
+  text-align: center;
+}
+#testimonials1-15 .card-block {
+  text-align: center;
+}
+#footer1-16 P {
+  text-align: center;
+}
+#dropdown-menu-17 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-17 .navbar-brand a {
+  font-size: 24px;
+}
+#dropdown-menu-17 .nav .link,
+#dropdown-menu-17 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-17 .navbar,
+#dropdown-menu-17 .dropdown-menu {
+  background: #f1c050;
+}
+#dropdown-menu-17 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-17 .dropdown-menu a:hover,
+#dropdown-menu-17 .dropdown-menu a:focus {
+  background: #efb93d;
+}
+#dropdown-menu-17 .navbar-toggler {
+  color: #000000;
+}
+#testimonials1-19 .mbr-section-title {
+  color: #0275d8;
+}
+#testimonials1-19 .card-block DIV {
+  text-align: center;
+}
+#testimonials1-19 .card-block EM {
+  text-align: left;
+}
+#testimonials1-19 .card-block P {
+  text-align: center;
+}
+#testimonials1-19 .card-block {
+  text-align: center;
+}
+#footer1-1a P {
+  text-align: center;
+}

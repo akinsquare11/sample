@@ -1,0 +1,1957 @@
+{
+  "settings": {
+    "name": "Samuel",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 49,
+    "versionPublish": "3.11.1",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "24px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#f1c050"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#efb93d"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "alias": "dropdown-menu",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-0",
+          "_params": {
+            "bgColor": "#f1c050",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POETRY AND JOKE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"https://mobirise.com/\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "Welcome to IAMROZE...<br>...the home of poetry, jokes and articles",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#abdbf2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/teamos-walls-pack-29-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Poetry",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"poetry.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-responsive.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Jokes",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"joke.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/teamos-walls-pack-32-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Articles",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Unlimited Sites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "social-buttons1-3",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#a7b0c3",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "counters": true,
+            "twitter": true,
+            "google": false
+          },
+          "text": "Share This Page!"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-4",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 &nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"#bottom\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "poetry.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "24px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#f1c050"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#efb93d"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "alias": "dropdown-menu",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-5",
+          "_params": {
+            "bgColor": "#f1c050",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POETRY AND JOKE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"https://mobirise.com/\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-6",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 &nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"#bottom\">Privacy Policy</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "H4": {
+              "color": "#0275d8"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "features1-b",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#edafae",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-bootstrap.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Mock",
+          "caption1": "From left to right I watched the trees,From left to right I watched the trees swing,<br>Gently gently they...<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"Mock.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-responsive.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "MARATHON",
+          "caption2": "My marathon has long started,<br>My Marathon started many years ago,&nbsp;My race through secession...<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"Marathon.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-google-fonts.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "EQUALITY",
+          "caption3": "We have stood still in the jungle so long,&nbsp;We have danced to the beats of the drums...<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"Equality.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "A NEW",
+          "caption4": "Over time things change,<br>Things change as time passes,<br>Tick Tick Tick says the clock,<br>As so time passes as...<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"ANew.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Read More</a>"
+        }
+      ]
+    },
+    "joke.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "24px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#f1c050"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#efb93d"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "alias": "dropdown-menu",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-e",
+          "_params": {
+            "bgColor": "#f1c050",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POETRY AND JOKE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"https://mobirise.com/\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-f",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 &nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"#bottom\">Privacy Policy</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-1c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#d8d4d1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "title": "",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster."
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-g",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#fad1c7",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-bootstrap.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Help",
+          "caption1": "Three friends listening to radio. A plane passed...<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"help.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-responsive.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "I tell you",
+          "caption2": "A conversation between Buga and Brother FearGod...<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"ITellYou.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-google-fonts.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Write up 3",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Write up 4",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Read More</a>"
+        }
+      ]
+    },
+    "article.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "24px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#f1c050"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#efb93d"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "alias": "dropdown-menu",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-i",
+          "_params": {
+            "bgColor": "#f1c050",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POETRY AND JOKE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"https://mobirise.com/\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-j",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 &nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"#bottom\">Privacy Policy</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-k",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#edafae",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-bootstrap.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Write up 1",
+          "caption1": "Bootstrap 3 has been noted as one of the most.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-responsive.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Write up 2",
+          "caption2": "One of Bootstrap 3's big points is .",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-google-fonts.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Write up 3",
+          "caption3": "Google has a highly exhaustive list of fonts",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Write up 4",
+          "caption4": "Mobirise gives you the freedom to .",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Read More</a>"
+        }
+      ]
+    },
+    "Mock.html": {
+      "settings": {
+        "title": "Mock"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "24px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#f1c050"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#efb93d"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "alias": "dropdown-menu",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-m",
+          "_params": {
+            "bgColor": "#f1c050",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POETRY AND JOKE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"https://mobirise.com/\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-p",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#FFF8E0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "title": "",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster."
+        },
+        {
+          "items": [
+            {
+              "text": "From left to right I watched the trees,<p></p><p></p><div>From left to right I watched the trees swing,</div><div>Gently gently they swung up and down,</div><div>I watched them swing to all directions</div><div>Till darkness came.</div><div><br></div><div>The cloud was heavy,</div><div>I could not see the tip of the mountain,</div><div>For it was covered in dew,</div><div>One could not see one coming afar,</div><div>We were blind to our very fronts.</div><div><br></div><div>It got silent,</div><div>The cool breeze stop,</div><div>We seeked rain</div><div>But it seemes  the heavens has shot her gate,</div><div>We cried aloud,</div><div>But it seems our cries drew back laughter.</div><div><br></div><div>It started to rain,</div><div>We got filled with joy,</div><div>For it seemed our prayers had been answered,</div><div>Suddenly the rain stopped,</div><div>The sun chocked the soil of rain dropping above,</div><div>We ask”What sort of rain is this?”</div><div>A rain that comes with much promise,</div><div>And takes our crops as it flows away,</div><div>Takes our crops to foreign soil</div><div>And plants our seeds,</div><div>The sun left behind bites the very depth of our feets.</div><div><br></div><div>We till the land,</div><div>But the land in return tills us back,</div><div>We water the soil,</div><div>But the soil refuses to hold its take,</div><div>It drains us of all our reserves,</div><div>And lives us to thirst and wander.</div><div><br></div><div>Who is to blame we ask?</div><div>The rain says it’s the sun for been too harsh,</div><div>The sun says it’s the rain for falling carelessly,</div><div>Each battle to see the destruction of the other,</div><div>And they say to us “Define your path</div><div>Define your path for the future generation”.</div><div><br></div><div><br></div><div>Mocks shoots us like bullets from guns,</div><div>Mocks slashes our backs like cutlasses</div><div>Willed by the killers of men,</div><div>Mocks lashes us Stokes of Cain&nbsp;</div><div>From the Masters to their dogs.</div><div><br></div>",
+              "authorName": "<b>Samuel</b>",
+              "authorBio": "Post 2/23/2017"
+            },
+            {
+              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</em>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#0275d8"
+            },
+            ".card-block DIV": {
+              "text-align": "center"
+            },
+            ".card-block EM": {
+              "text-align": "left"
+            },
+            ".card-block P": {
+              "text-align": "center"
+            },
+            ".card-block": {
+              "text-align": "center"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "From left to right I watched the trees,<p></p><p></p><div>From left to right I watched the trees swing,</div><div>Gently gently they swung up and down,</div><div>I watched them swing to all directions</div><div>Till darkness came.</div><div><br></div><div>The cloud was heavy,</div><div>I could not see the tip of the mountain,</div><div>For it was covered in dew,</div><div>One could not see one coming afar,</div><div>We were blind to our very fronts.</div><div><br></div><div>It got silent,</div><div>The cool breeze stop,</div><div>We seeked rain</div><div>But it seemes  the heavens has shot her gate,</div><div>We cried aloud,</div><div>But it seems our cries drew back laughter.</div><div><br></div><div>It started to rain,</div><div>We got filled with joy,</div><div>For it seemed our prayers had been answered,</div><div>Suddenly the rain stopped,</div><div>The sun chocked the soil of rain dropping above,</div><div>We ask”What sort of rain is this?”</div><div>A rain that comes with much promise,</div><div>And takes our crops as it flows away,</div><div>Takes our crops to foreign soil</div><div>And plants our seeds,</div><div>The sun left behind bites the very depth of our feets.</div><div><br></div><div>We till the land,</div><div>But the land in return tills us back,</div><div>We water the soil,</div><div>But the soil refuses to hold its take,</div><div>It drains us of all our reserves,</div><div>And lives us to thirst and wander.</div><div><br></div><div>Who is to blame we ask?</div><div>The rain says it’s the sun for been too harsh,</div><div>The sun says it’s the rain for falling carelessly,</div><div>Each battle to see the destruction of the other,</div><div>And they say to us “Define your path</div><div>Define your path for the future generation”.</div><div><br></div><div><br></div><div>Mocks shoots us like bullets from guns,</div><div>Mocks slashes our backs like cutlasses</div><div>Willed by the killers of men,</div><div>Mocks lashes us Stokes of Cain&nbsp;</div><div>From the Masters to their dogs.</div>",
+              "authorName": "<b>Samuel</b>",
+              "authorBio": "Post 2/23/2017"
+            }
+          ],
+          "_anchor": "testimonials1-q",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": "1",
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#feeaba",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "Mock"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-n",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 &nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"#bottom\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "Marathon.html": {
+      "settings": {
+        "title": "Marathon"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "24px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#f1c050"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#efb93d"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "alias": "dropdown-menu",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-r",
+          "_params": {
+            "bgColor": "#f1c050",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POETRY AND JOKE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"https://mobirise.com/\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-s",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#FFF8E0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "title": "",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster."
+        },
+        {
+          "items": [
+            {
+              "text": "My marathon has long started,<div>My Marathon started many years ago,</div><div>My race through secession,</div><div>My race through the very track I hated.</div><div><br></div><div>I started on my mat,</div><div>Got set as I was told,</div><div>Relied on the voice of the call master</div><div>As he said READY,</div><div>I got ready,</div><div>And when he said GO</div><div>My race started,</div><div>The very essence of my existence.</div><div><br></div><div>I dizzied as I went on motion,</div><div>Retracting each foot in front of the other,</div><div>I pushed forward,</div><div>I pushed hard forward,</div><div>It seems I was left far behind,</div><div>I pushed forward in search of my opponents,</div><div>There seemed to be none ahead,</div><div>It seems I’ve been left far behind.</div><div><br></div><div>&nbsp;I pushed hard forward,</div><div>I fell,</div><div>I broke my hill,</div><div>I looked around,</div><div>Everyone seemed to be watching,</div><div>They laughed at me,</div><div>I decided to stop the race,</div><div>I heard a voice</div><div>It called me a coward.</div><div><br></div><div>I observed as they stared</div><div>Vigorously as I lipped,</div><div>The more I tried to speed up,</div><div>The more they laughed at me,</div><div>I watched and waited,</div><div>I sat in wait to see,</div><div>To see if someone would go round,</div><div>If someone would go round in relay,</div><div>No one did.</div><div><br></div><div>My eyes opened and I saw no one,</div><div>I stopped my race,</div><div>There seemed to be no attention,</div><div>No attention was given to me,</div><div>It seemed I was alone on the track.</div><div><br></div><div>Everyone stopped to talk as soon as I stopped to listen,</div><div>I listened to the silence in the air,</div><div>It seemed I started the race alone,</div><div>All alone from the beginning,</div><div>There was no one behind me,</div><div>And there was no one before me.</div><div><br></div><div>The race was meant only for me,</div><div>Everyone has his race,</div><div>His own race to run alone,</div><div>In this race he discovers his purpose,</div><div>I discovered my purpose,</div><div>My race was filled with hurdles,</div><div>Hurdles to be jumped in a lifetime.</div><div><br></div><div>Each time I hit a hurdle I fell and waste time,</div><div>I fell and fell,</div><div>I became too tired to fall,</div><div>My body was covered rom the dust of the ground I fell,</div><div>I face the hurdles,</div><div>Hitting it was a bad idea,</div><div>I jumped over it,</div><div>And finished my race.</div><div><br><div><br></div></div>",
+              "authorName": "<b>Samuel</b>",
+              "authorBio": "Post 2/23/2017"
+            },
+            {
+              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</em>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#0275d8"
+            },
+            ".card-block DIV": {
+              "text-align": "center"
+            },
+            ".card-block EM": {
+              "text-align": "left"
+            },
+            ".card-block P": {
+              "text-align": "center"
+            },
+            ".card-block": {
+              "text-align": "center"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "My marathon has long started,<div>My Marathon started many years ago,</div><div>My race through secession,</div><div>My race through the very track I hated.</div><div><br></div><div>I started on my mat,</div><div>Got set as I was told,</div><div>Relied on the voice of the call master</div><div>As he said READY,</div><div>I got ready,</div><div>And when he said GO</div><div>My race started,</div><div>The very essence of my existence.</div><div><br></div><div>I dizzied as I went on motion,</div><div>Retracting each foot in front of the other,</div><div>I pushed forward,</div><div>I pushed hard forward,</div><div>It seems I was left far behind,</div><div>I pushed forward in search of my opponents,</div><div>There seemed to be none ahead,</div><div>It seems I’ve been left far behind.</div><div><br></div><div>&nbsp;I pushed hard forward,</div><div>I fell,</div><div>I broke my hill,</div><div>I looked around,</div><div>Everyone seemed to be watching,</div><div>They laughed at me,</div><div>I decided to stop the race,</div><div>I heard a voice</div><div>It called me a coward.</div><div><br></div><div>I observed as they stared</div><div>Vigorously as I lipped,</div><div>The more I tried to speed up,</div><div>The more they laughed at me,</div><div>I watched and waited,</div><div>I sat in wait to see,</div><div>To see if someone would go round,</div><div>If someone would go round in relay,</div><div>No one did.</div><div><br></div><div>My eyes opened and I saw no one,</div><div>I stopped my race,</div><div>There seemed to be no attention,</div><div>No attention was given to me,</div><div>It seemed I was alone on the track.</div><div><br></div><div>Everyone stopped to talk as soon as I stopped to listen,</div><div>I listened to the silence in the air,</div><div>It seemed I started the race alone,</div><div>All alone from the beginning,</div><div>There was no one behind me,</div><div>And there was no one before me.</div><div><br></div><div>The race was meant only for me,</div><div>Everyone has his race,</div><div>His own race to run alone,</div><div>In this race he discovers his purpose,</div><div>I discovered my purpose,</div><div>My race was filled with hurdles,</div><div>Hurdles to be jumped in a lifetime.</div><div><br></div><div>Each time I hit a hurdle I fell and waste time,</div><div>I fell and fell,</div><div>I became too tired to fall,</div><div>My body was covered rom the dust of the ground I fell,</div><div>I face the hurdles,</div><div>Hitting it was a bad idea,</div><div>I jumped over it,</div><div>And finished my race.</div>",
+              "authorName": "<b>Samuel</b>",
+              "authorBio": "Post 2/23/2017"
+            }
+          ],
+          "_anchor": "testimonials1-t",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": "1",
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#feeaba",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "Marathon"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-u",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 &nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"#bottom\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "Equality.html": {
+      "settings": {
+        "title": "Equality"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "24px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#f1c050"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#efb93d"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "alias": "dropdown-menu",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-v",
+          "_params": {
+            "bgColor": "#f1c050",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POETRY AND JOKE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"https://mobirise.com/\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-w",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#FFF8E0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "title": "",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster."
+        },
+        {
+          "items": [
+            {
+              "text": "We have stood still in the jungle so long,<div>We have danced to the beats of the drums</div><div>And dunk ourselves at the beach by rivers bay.</div><div>We savour shells of hale</div><div>In pots not much so our scale,</div><div>We put our fluids in baskets</div><div>And in cure our caskets.</div><div><br></div><div>What is a jungle with barren trees?</div><div>Not much so a desert of dirt.</div><div>A verse land with mouse and vipers,</div><div>A forest with dears and snipers.</div><div><br></div><div>We danced like snakes,</div><div>Dancing to the beats of the charmers,</div><div>We danced straight right until&nbsp;</div><div>We were caught.</div><div>They said we were one like nuts</div><div>Only to cut out and break us in two.</div><div><br></div><div>We are all trees in the jungle they say,</div><div>All rats at the same side of the jungle,</div><div>They promised to lead,</div><div>And now their commands we read.</div><div>Like shepherds leading their lambs to slaughter</div><div>They held our feets and hands</div><div>And took our voices.</div><div>They took from us all we had.</div><div>A cabinet of wild wolves</div><div>Sitting on the affairs of the jungle.</div><div><br></div><div>For so long we cried out</div><div>And buried our heads in sadness</div><div>For a saviour.</div><div>One to take us out of bondage</div><div>Heal our wounds and take our bandage.</div><div>We have cried with careless care,</div><div>In and out with fear,</div><div>When shall we hear&nbsp;</div><div>The talk of fair in our jungle?</div><div><br><div><br><div><br></div></div></div>",
+              "authorName": "<b>Samuel</b>",
+              "authorBio": "Post 2/23/2017"
+            },
+            {
+              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</em>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#0275d8"
+            },
+            ".card-block DIV": {
+              "text-align": "center"
+            },
+            ".card-block EM": {
+              "text-align": "left"
+            },
+            ".card-block P": {
+              "text-align": "center"
+            },
+            ".card-block": {
+              "text-align": "center"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "We have stood still in the jungle so long,<div>We have danced to the beats of the drums</div><div>And dunk ourselves at the beach by rivers bay.</div><div>We savour shells of hale</div><div>In pots not much so our scale,</div><div>We put our fluids in baskets</div><div>And in cure our caskets.</div><div><br></div><div>What is a jungle with barren trees?</div><div>Not much so a desert of dirt.</div><div>A verse land with mouse and vipers,</div><div>A forest with dears and snipers.</div><div><br></div><div>We danced like snakes,</div><div>Dancing to the beats of the charmers,</div><div>We danced straight right until&nbsp;</div><div>We were caught.</div><div>They said we were one like nuts</div><div>Only to cut out and break us in two.</div><div><br></div><div>We are all trees in the jungle they say,</div><div>All rats at the same side of the jungle,</div><div>They promised to lead,</div><div>And now their commands we read.</div><div>Like shepherds leading their lambs to slaughter</div><div>They held our feets and hands</div><div>And took our voices.</div><div>They took from us all we had.</div><div>A cabinet of wild wolves</div><div>Sitting on the affairs of the jungle.</div><div><br></div><div>For so long we cried out</div><div>And buried our heads in sadness</div><div>For a saviour.</div><div>One to take us out of bondage</div><div>Heal our wounds and take our bandage.</div><div>We have cried with careless care,</div><div>In and out with fear,</div><div>When shall we hear&nbsp;</div><div>The talk of fair in our jungle?</div>",
+              "authorName": "<b>Samuel</b>",
+              "authorBio": "Post 2/23/2017"
+            }
+          ],
+          "_anchor": "testimonials1-x",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "count": "1",
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#feeaba",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "Equality"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-y",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 &nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"#bottom\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "ANew.html": {
+      "settings": {
+        "title": "A New"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "24px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#f1c050"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#efb93d"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "alias": "dropdown-menu",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-z",
+          "_params": {
+            "bgColor": "#f1c050",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POETRY AND JOKE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"https://mobirise.com/\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-10",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#FFF8E0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "title": "",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster."
+        },
+        {
+          "items": [
+            {
+              "text": "Over time things change,<div>Things change as time passes,</div><div>Tick Tick Tick says the clock,</div><div>As so time passes as flows,</div><div>It flows as the stream of time,</div><div>It flows never ending,</div><div>And never to return to its origin.</div><div><br></div><div>At the point of start it denies restart,</div><div>Once an action is set: it is set,</div><div>And it stays set,</div><div>It stays set that way forever,</div><div>At least forever.</div><div><br></div><div>Once in that stream I was born,</div><div>Once in that stream you were born,</div><div>Once in that stream our parts were made,</div><div>Our parts were made to cross,</div><div>To cross and determine destiny,</div><div>A destiny to tag life,</div><div>Either as the error of time,</div><div>Or rather the invention of time,</div><div>The history of tomorrow,</div><div>And once in that stream we shall all die.</div><div><br></div><div>Once in that stream I was born,</div><div>Once an innocent lad an infant,</div><div>I crawled and sat,</div><div>I stood and fell,</div><div>I stood and began to walk,</div><div>I walked and began to run,</div><div>I ran and began to swim,</div><div>I began to swim in the stream of life.</div><div><br></div><div>I watched helplessly</div><div>As seconds passed and became minutes,</div><div>Minutes passed and became  hours,</div><div>Hours passed and became days,</div><div>Days passed and became weeks,</div><div>Weeks passed and became months,</div><div>Months passed and became years,</div><div>Each time it revolves I revolve with it,</div><div>And celebrate it as a NEW YEAR.</div><div><br></div><div>Seasons passed,</div><div>After summer came winter,</div><div>And each time it presented a gift,</div><div>It presented a new year,</div><div>But what does this mean?</div><div><br></div><div>Each time I heard&nbsp;</div><div>A new year a new life I marvelled,</div><div>Is it a continuous process?&nbsp;</div><div>Or it is a process of reborn?</div><div>Is it what I say it is?</div><div>Or how I move with it?</div><div>Is it good or evil?</div><div>Is it change?</div><div>Is change a bad or a good thing?</div><div>None scarves me as the thought</div><div>“the older I get the closer I am to my death”</div><div><br></div><div>A day has gone passed,</div><div>We are all started a new,</div><div>We rejoiced and drank wine,</div><div>I went home I slept I woke,</div><div>It was another day,</div><div>How funny time moves,</div><div>As it moves you loose track of it.</div><div><br></div><div>Each time we get thought time is of the essence,</div><div>A second might be small but it makes a minute,</div><div>A minute might be small but it makes an hour,</div><div>Hours make days,</div><div>And there are 365 days in a year.</div><div><br></div><div>I reflect on the stream of time,</div><div>There are two things to it,</div><div>It is either your memories are washed away in time,</div><div>Or it stays as the current that drives the stream.</div><div><br></div><div>Do you want to get washed away in time?</div><div>Or stand as the current that drives it?</div><div>Do you want to tell a dead story?</div><div>Or have someone tell a great tale of you?</div><div>A great man dies one day,</div><div>So also a foolish one,</div><div>The foolish memories dies with the fool,</div><div>But that of the wise lives on as his legacy.</div><div><br><div><br><div><br><div><br></div></div></div></div>",
+              "authorName": "<b>Samuel</b>",
+              "authorBio": "Post 2/23/2017"
+            },
+            {
+              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</em>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#0275d8"
+            },
+            ".card-block DIV": {
+              "text-align": "center"
+            },
+            ".card-block EM": {
+              "text-align": "left"
+            },
+            ".card-block P": {
+              "text-align": "center"
+            },
+            ".card-block": {
+              "text-align": "center"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "Over time things change,<div>Things change as time passes,</div><div>Tick Tick Tick says the clock,</div><div>As so time passes as flows,</div><div>It flows as the stream of time,</div><div>It flows never ending,</div><div>And never to return to its origin.</div><div><br></div><div>At the point of start it denies restart,</div><div>Once an action is set: it is set,</div><div>And it stays set,</div><div>It stays set that way forever,</div><div>At least forever.</div><div><br></div><div>Once in that stream I was born,</div><div>Once in that stream you were born,</div><div>Once in that stream our parts were made,</div><div>Our parts were made to cross,</div><div>To cross and determine destiny,</div><div>A destiny to tag life,</div><div>Either as the error of time,</div><div>Or rather the invention of time,</div><div>The history of tomorrow,</div><div>And once in that stream we shall all die.</div><div><br></div><div>Once in that stream I was born,</div><div>Once an innocent lad an infant,</div><div>I crawled and sat,</div><div>I stood and fell,</div><div>I stood and began to walk,</div><div>I walked and began to run,</div><div>I ran and began to swim,</div><div>I began to swim in the stream of life.</div><div><br></div><div>I watched helplessly</div><div>As seconds passed and became minutes,</div><div>Minutes passed and became  hours,</div><div>Hours passed and became days,</div><div>Days passed and became weeks,</div><div>Weeks passed and became months,</div><div>Months passed and became years,</div><div>Each time it revolves I revolve with it,</div><div>And celebrate it as a NEW YEAR.</div><div><br></div><div>Seasons passed,</div><div>After summer came winter,</div><div>And each time it presented a gift,</div><div>It presented a new year,</div><div>But what does this mean?</div><div><br></div><div>Each time I heard&nbsp;</div><div>A new year a new life I marvelled,</div><div>Is it a continuous process?&nbsp;</div><div>Or it is a process of reborn?</div><div>Is it what I say it is?</div><div>Or how I move with it?</div><div>Is it good or evil?</div><div>Is it change?</div><div>Is change a bad or a good thing?</div><div>None scarves me as the thought</div><div>“the older I get the closer I am to my death”</div><div><br></div><div>A day has gone passed,</div><div>We are all started a new,</div><div>We rejoiced and drank wine,</div><div>I went home I slept I woke,</div><div>It was another day,</div><div>How funny time moves,</div><div>As it moves you loose track of it.</div><div><br></div><div>Each time we get thought time is of the essence,</div><div>A second might be small but it makes a minute,</div><div>A minute might be small but it makes an hour,</div><div>Hours make days,</div><div>And there are 365 days in a year.</div><div><br></div><div>I reflect on the stream of time,</div><div>There are two things to it,</div><div>It is either your memories are washed away in time,</div><div>Or it stays as the current that drives the stream.</div><div><br></div><div>Do you want to get washed away in time?</div><div>Or stand as the current that drives it?</div><div>Do you want to tell a dead story?</div><div>Or have someone tell a great tale of you?</div><div>A great man dies one day,</div><div>So also a foolish one,</div><div>The foolish memories dies with the fool,</div><div>But that of the wise lives on as his legacy.</div>",
+              "authorName": "<b>Samuel</b>",
+              "authorBio": "Post 2/23/2017"
+            }
+          ],
+          "_anchor": "testimonials1-11",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "count": "1",
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#feeaba",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "A NEW"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-12",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 &nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"#bottom\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "help.html": {
+      "settings": {
+        "title": "HELP"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "24px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#f1c050"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#efb93d"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "alias": "dropdown-menu",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-13",
+          "_params": {
+            "bgColor": "#f1c050",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POETRY AND JOKE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"https://mobirise.com/\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-14",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#FFF8E0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "title": "",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster."
+        },
+        {
+          "items": [
+            {
+              "text": "Three friends listening to radio. A plane passed.<div>Kaching: Kai, help me see trouble, the man inside this radio dey pour me spit.</div><div>Bro Fear God: Tor, you see that plane wey just pass the pilot don mess.</div><div>BUGA: Ehn, see lie, you blind? Na the pilot attendant mess, she don kill the pilot</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And co-pilot with mess. That plane go crash make una help them.</div>",
+              "authorName": "<b>Samuel</b>",
+              "authorBio": "Post 2/23/2017"
+            },
+            {
+              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</em>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#0275d8"
+            },
+            ".card-block DIV": {
+              "text-align": "center"
+            },
+            ".card-block EM": {
+              "text-align": "left"
+            },
+            ".card-block P": {
+              "text-align": "center"
+            },
+            ".card-block": {
+              "text-align": "center"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "Three friends listening to radio. A plane passed.<div>Kaching: Kai, help me see trouble, the man inside this radio dey pour me spit.</div><div>Bro Fear God: Tor, you see that plane wey just pass the pilot don mess.</div><div>BUGA: Ehn, see lie, you blind? Na the pilot attendant mess, she don kill the pilot</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And co-pilot with mess. That plane go crash make una help them.</div>",
+              "authorName": "<b>Samuel</b>",
+              "authorBio": "Post 2/23/2017"
+            }
+          ],
+          "_anchor": "testimonials1-15",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "count": "1",
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#feeaba",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "HELP"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-16",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 &nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"#bottom\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "ITellYou.html": {
+      "settings": {
+        "title": "I TELL YOU"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "24px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#f1c050"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#efb93d"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "alias": "dropdown-menu",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-17",
+          "_params": {
+            "bgColor": "#f1c050",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POETRY AND JOKE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"https://mobirise.com/\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-18",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#FFF8E0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "title": "",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster."
+        },
+        {
+          "items": [
+            {
+              "text": "<div>A conversation between Buga and Brother fearGod</div><div>BUGA:  Brother how all these people dey take enter television</div><div>Bro F.G: What sort of question is that?</div><div>BUGA:  I just dey ask. The way I dey see am one day I go enter television.</div><div>BRO F.G: Fool.  Am going out don’t do anything stupid</div><div>HE GOES OUT ONLY TO RETURN AND FIND HIS TELEVISION ON THE FLOOR.</div><div>BRO F.G: Buga wetin be this one&nbsp;</div><div>BUGA PICKS UP THE SCREEN AND PLACE IT AT THE BACK OF HIS HEAD.</div><div>BUGA:  Broda say I TELL you say one day I go enter your television.</div><div>&nbsp;BROTHER FEARGOD</div><div>.</div>",
+              "authorName": "<b>Samuel</b>",
+              "authorBio": "Post 2/23/2017"
+            },
+            {
+              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</em>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#0275d8"
+            },
+            ".card-block DIV": {
+              "text-align": "center"
+            },
+            ".card-block EM": {
+              "text-align": "left"
+            },
+            ".card-block P": {
+              "text-align": "center"
+            },
+            ".card-block": {
+              "text-align": "center"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<div>A conversation between Buga and Brother fearGod</div><div>BUGA:  Brother how all these people dey take enter television</div><div>Bro F.G: What sort of question is that?</div><div>BUGA:  I just dey ask. The way I dey see am one day I go enter television.</div><div>BRO F.G: Fool.  Am going out don’t do anything stupid</div><div>HE GOES OUT ONLY TO RETURN AND FIND HIS TELEVISION ON THE FLOOR.</div><div>BRO F.G: Buga wetin be this one&nbsp;</div><div>BUGA PICKS UP THE SCREEN AND PLACE IT AT THE BACK OF HIS HEAD.</div><div>BUGA:  Broda say I TELL you say one day I go enter your television.</div><div>&nbsp;BROTHER FEARGOD.</div>",
+              "authorName": "<b>Samuel</b>",
+              "authorBio": "Post 2/23/2017"
+            }
+          ],
+          "_anchor": "testimonials1-19",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "count": "1",
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#feeaba",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "I TELL YOU"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-1a",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 &nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"#bottom\">Privacy Policy</a>"
+        }
+      ]
+    }
+  }
+}
