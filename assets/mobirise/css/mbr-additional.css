@@ -16,12 +16,12 @@
 }
 #dropdown-menu-0 .navbar,
 #dropdown-menu-0 .dropdown-menu {
-  background: #f1c050;
+  background: #bbe8cc;
 }
 #dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-0 .dropdown-menu a:hover,
 #dropdown-menu-0 .dropdown-menu a:focus {
-  background: #efb93d;
+  background: #ace3c1;
 }
 #dropdown-menu-0 .navbar-toggler {
   color: #000000;
@@ -29,9 +29,7 @@
 #header1-1 H1 {
   font-family: 'Indie Flower', cursive;
   font-size: 30px;
-}
-#social-buttons1-3 .mbr-section-title {
-  font-size: 20px;
+  color: #d9534f;
 }
 #footer1-4 P {
   text-align: center;

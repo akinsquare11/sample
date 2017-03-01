@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 49,
+    "uniqCompNum": 50,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -41,10 +41,10 @@
               "color": "#000000"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#f1c050"
+              "background": "#bbe8cc"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#efb93d"
+              "background": "#ace3c1"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -57,7 +57,7 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-0",
           "_params": {
-            "bgColor": "#f1c050",
+            "bgColor": "#bbe8cc",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#000000",
@@ -79,7 +79,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IAMROZE</a>",
+          "brand": "<a class=\"text-primary\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">IAMROZE</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"https://mobirise.com/\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
@@ -92,7 +92,8 @@
             "H1": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "30px"
+              "font-size": "30px",
+              "color": "#d9534f"
             }
           },
           "_anchor": "header1-1",
@@ -141,7 +142,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "3",
+            "columns": "2",
             "showImages": true,
             "showTitles": true,
             "showCaptions": false,
@@ -189,7 +190,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"joke.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/download-2-600x352.jpg",
+              "src": "@PROJECT_PATH@/assets/images/download%20(2)-600x352.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -229,30 +230,22 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "social-buttons1-3",
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-1d",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "bgColor": "#a7b0c3",
+            "bgColor": "#FFF8E0",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "facebook": true,
-            "counters": true,
-            "twitter": true,
-            "google": false
+            "overlayColor": "#222"
           },
-          "text": "Share This Page!"
+          "text": "Follow Us",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/roze_izzy\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/rozedahpoet\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-google\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/10736275567462911726\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/iamroze/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    "
         },
         {
           "alias": "purity/components",
@@ -278,7 +271,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 &nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"#bottom\">Privacy Policy</a>"
+          "text": "Copyright (c) 2017&nbsp;"
         }
       ]
     },
@@ -365,7 +358,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 &nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"#bottom\">Privacy Policy</a>"
+          "text": "Copyright (c) 2017&nbsp;"
         },
         {
           "alias": "purity/components",
@@ -569,7 +562,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 &nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"#bottom\">Privacy Policy</a>"
+          "text": "Copyright (c) 2017&nbsp;"
         },
         {
           "alias": "purity/components",
@@ -786,7 +779,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 &nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"#bottom\">Privacy Policy</a>"
+          "text": "Copyright (c) 2017&nbsp;"
         },
         {
           "alias": "purity/components",
@@ -976,7 +969,7 @@
         {
           "items": [
             {
-              "text": "From left to right I watched the trees,<p></p><p></p><div>From left to right I watched the trees swing,</div><div>Gently gently they swung up and down,</div><div>I watched them swing to all directions</div><div>Till darkness came.</div><div><br></div><div>The cloud was heavy,</div><div>I could not see the tip of the mountain,</div><div>For it was covered in dew,</div><div>One could not see one coming afar,</div><div>We were blind to our very fronts.</div><div><br></div><div>It got silent,</div><div>The cool breeze stop,</div><div>We seeked rain</div><div>But it seemes  the heavens has shot her gate,</div><div>We cried aloud,</div><div>But it seems our cries drew back laughter.</div><div><br></div><div>It started to rain,</div><div>We got filled with joy,</div><div>For it seemed our prayers had been answered,</div><div>Suddenly the rain stopped,</div><div>The sun chocked the soil of rain dropping above,</div><div>We ask”What sort of rain is this?”</div><div>A rain that comes with much promise,</div><div>And takes our crops as it flows away,</div><div>Takes our crops to foreign soil</div><div>And plants our seeds,</div><div>The sun left behind bites the very depth of our feets.</div><div><br></div><div>We till the land,</div><div>But the land in return tills us back,</div><div>We water the soil,</div><div>But the soil refuses to hold its take,</div><div>It drains us of all our reserves,</div><div>And lives us to thirst and wander.</div><div><br></div><div>Who is to blame we ask?</div><div>The rain says it’s the sun for been too harsh,</div><div>The sun says it’s the rain for falling carelessly,</div><div>Each battle to see the destruction of the other,</div><div>And they say to us “Define your path</div><div>Define your path for the future generation”.</div><div><br></div><div><br></div><div>Mocks shoots us like bullets from guns,</div><div>Mocks slashes our backs like cutlasses</div><div>Willed by the killers of men,</div><div>Mocks lashes us Stokes of Cain&nbsp;</div><div>From the Masters to their dogs.</div><div><br></div>",
+              "text": "From left to right I watched the trees,<p></p><p></p><div>From left to right I watched the trees swing,</div><div>Gently gently they swung up and down,</div><div>I watched them swing to all directions</div><div>Till darkness came.</div><div><br></div><div>The cloud was heavy,</div><div>I could not see the tip of the mountain,</div><div>For it was covered in dew,</div><div>One could not see one coming afar,</div><div>We were blind to our very fronts.</div><div><br></div><div>It got silent,</div><div>The cool breeze stop,</div><div>We seeked rain</div><div>But it seemes  the heavens has shot her gate,</div><div>We cried aloud,</div><div>But it seems our cries drew back laughter.</div><div><br></div><div>It started to rain,</div><div>We got filled with joy,</div><div>For it seemed our prayers had been answered,</div><div>Suddenly the rain stopped,</div><div>The sun chocked the soil of rain dropping above,</div><div>We ask”What sort of rain is this?”</div><div>A rain that comes with much promise,</div><div>And takes our crops as it flows away,</div><div>Takes our crops to foreign soil</div><div>And plants our seeds,</div><div>The sun left behind bites the very depth of our feets.</div><div><br></div><div>We till the land,</div><div>But the land in return tills us back,</div><div>We water the soil,</div><div>But the soil refuses to hold its take,</div><div>It drains us of all our reserves,</div><div>And lives us to thirst and wander.</div><div><br></div><div>Who is to blame we ask?</div><div>The rain says it’s the sun for been too harsh,</div><div>The sun says it’s the rain for falling carelessly,</div><div>Each battle to see the destruction of the other,</div><div>And they say to us “Define your path</div><div>Define your path for the future generation”.</div><div><br></div><div><br></div><div>Mocks shoots us like bullets from guns,</div><div>Mocks slashes our backs like cutlasses</div><div>Willed by the killers of men,</div><div>Mocks lashes us Stokes of Cain&nbsp;</div><div>From the Masters to their dogs.</div>",
               "authorName": "<b>Samuel</b>",
               "authorBio": "Post 2/23/2017"
             },
@@ -1063,7 +1056,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 &nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"#bottom\">Privacy Policy</a>"
+          "text": "Copyright (c) 2017&nbsp;"
         }
       ]
     },
